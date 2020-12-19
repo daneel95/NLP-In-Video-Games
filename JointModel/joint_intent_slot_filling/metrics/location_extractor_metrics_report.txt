@@ -1,0 +1,144 @@
+====== Levenshtein Distance Results ======
+Predicted Value (Input): dragon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): healing shrine -- Expected Value: Healing Shrine -- Extracted Value: Healing Shrine
+Predicted Value (Input): teleporter -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Predicted Value (Input): armr shp -- Expected Value: Armor Shop -- Extracted Value: Armor Shop
+Predicted Value (Input): tutorial -- Expected Value: Tutorial Dungeon -- Extracted Value: Tutorial Dungeon
+Predicted Value (Input): shrine -- Expected Value: Healing Shrine -- Extracted Value: Healing Shrine
+Predicted Value (Input): castle of doom dungeon entrace north -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: None
+Predicted Value (Input): armr shop -- Expected Value: Armor Shop -- Extracted Value: Armor Shop
+Predicted Value (Input): castle of doom dungoen -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Castle Of Doom Dungeon
+Predicted Value (Input): armr shp -- Expected Value: Armor Shop -- Extracted Value: Armor Shop
+Predicted Value (Input): tlportr -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Predicted Value (Input): deep -- Expected Value: Deep Sea Dungeon -- Extracted Value: Teleporter
+Predicted Value (Input): deep sea -- Expected Value: Deep Sea Dungeon -- Extracted Value: Teleporter
+Predicted Value (Input): castle -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Weapon Shop
+Predicted Value (Input): castle doom -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Armor Shop
+Predicted Value (Input): doom -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Armor Shop
+Predicted Value (Input): cstl of dom -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Potion Shop
+Predicted Value (Input): pot shop -- Expected Value: Potion Shop -- Extracted Value: Potion Shop
+Predicted Value (Input): pot shp -- Expected Value: Potion Shop -- Extracted Value: Potion Shop
+Predicted Value (Input): tut dgn -- Expected Value: Tutorial Dungeon -- Extracted Value: Potion Shop
+Predicted Value (Input): dragoon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): Deep Sea dungeon -- Expected Value: Deep Sea Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): healing shrnie -- Expected Value: Healing Shrine -- Extracted Value: Healing Shrine
+Predicted Value (Input): tutoial -- Expected Value: Tutorial Dungeon -- Extracted Value: Tutorial Dungeon
+Predicted Value (Input): Drgon dungeon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): wapon shop -- Expected Value: Weapon Shop -- Extracted Value: Weapon Shop
+Predicted Value (Input): telporer -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Predicted Value (Input): potion shop -- Expected Value: Potion Shop -- Extracted Value: Potion Shop
+Predicted Value (Input): dragoon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): dragoon dundun -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): teleport thingy -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Percentage of correct extractions: 74.19%
+=============================================
+
+
+====== Damerau-Levenshtein Distance Results ======
+Predicted Value (Input): dragon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): healing shrine -- Expected Value: Healing Shrine -- Extracted Value: Healing Shrine
+Predicted Value (Input): teleporter -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Predicted Value (Input): armr shp -- Expected Value: Armor Shop -- Extracted Value: Armor Shop
+Predicted Value (Input): tutorial -- Expected Value: Tutorial Dungeon -- Extracted Value: Tutorial Dungeon
+Predicted Value (Input): shrine -- Expected Value: Healing Shrine -- Extracted Value: Healing Shrine
+Predicted Value (Input): castle of doom dungeon entrace north -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: None
+Predicted Value (Input): armr shop -- Expected Value: Armor Shop -- Extracted Value: Armor Shop
+Predicted Value (Input): castle of doom dungoen -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Castle Of Doom Dungeon
+Predicted Value (Input): armr shp -- Expected Value: Armor Shop -- Extracted Value: Armor Shop
+Predicted Value (Input): tlportr -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Predicted Value (Input): deep -- Expected Value: Deep Sea Dungeon -- Extracted Value: Teleporter
+Predicted Value (Input): deep sea -- Expected Value: Deep Sea Dungeon -- Extracted Value: Teleporter
+Predicted Value (Input): castle -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Weapon Shop
+Predicted Value (Input): castle doom -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Armor Shop
+Predicted Value (Input): doom -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Armor Shop
+Predicted Value (Input): cstl of dom -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Potion Shop
+Predicted Value (Input): pot shop -- Expected Value: Potion Shop -- Extracted Value: Potion Shop
+Predicted Value (Input): pot shp -- Expected Value: Potion Shop -- Extracted Value: Potion Shop
+Predicted Value (Input): tut dgn -- Expected Value: Tutorial Dungeon -- Extracted Value: Potion Shop
+Predicted Value (Input): dragoon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): Deep Sea dungeon -- Expected Value: Deep Sea Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): healing shrnie -- Expected Value: Healing Shrine -- Extracted Value: Healing Shrine
+Predicted Value (Input): tutoial -- Expected Value: Tutorial Dungeon -- Extracted Value: Tutorial Dungeon
+Predicted Value (Input): Drgon dungeon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): wapon shop -- Expected Value: Weapon Shop -- Extracted Value: Weapon Shop
+Predicted Value (Input): telporer -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Predicted Value (Input): potion shop -- Expected Value: Potion Shop -- Extracted Value: Potion Shop
+Predicted Value (Input): dragoon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): dragoon dundun -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): teleport thingy -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Percentage of correct extractions: 74.19%
+=============================================
+
+
+====== Smith Waterman Distance Results ======
+Predicted Value (Input): dragon -- Expected Value: Dragon Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): healing shrine -- Expected Value: Healing Shrine -- Extracted Value: Healing Shrine
+Predicted Value (Input): teleporter -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Predicted Value (Input): armr shp -- Expected Value: Armor Shop -- Extracted Value: Armor Shop
+Predicted Value (Input): tutorial -- Expected Value: Tutorial Dungeon -- Extracted Value: Teleporter
+Predicted Value (Input): shrine -- Expected Value: Healing Shrine -- Extracted Value: Healing Shrine
+Predicted Value (Input): castle of doom dungeon entrace north -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Castle Of Doom Dungeon
+Predicted Value (Input): armr shop -- Expected Value: Armor Shop -- Extracted Value: Armor Shop
+Predicted Value (Input): castle of doom dungoen -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Castle Of Doom Dungeon
+Predicted Value (Input): armr shp -- Expected Value: Armor Shop -- Extracted Value: Armor Shop
+Predicted Value (Input): tlportr -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Predicted Value (Input): deep -- Expected Value: Deep Sea Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): deep sea -- Expected Value: Deep Sea Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): castle -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Teleporter
+Predicted Value (Input): castle doom -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Tutorial Dungeon
+Predicted Value (Input): doom -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): cstl of dom -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Potion Shop
+Predicted Value (Input): pot shop -- Expected Value: Potion Shop -- Extracted Value: Weapon Shop
+Predicted Value (Input): pot shp -- Expected Value: Potion Shop -- Extracted Value: Weapon Shop
+Predicted Value (Input): tut dgn -- Expected Value: Tutorial Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): dragoon -- Expected Value: Dragon Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): Deep Sea dungeon -- Expected Value: Deep Sea Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): healing shrnie -- Expected Value: Healing Shrine -- Extracted Value: Healing Shrine
+Predicted Value (Input): tutoial -- Expected Value: Tutorial Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): Drgon dungeon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): wapon shop -- Expected Value: Weapon Shop -- Extracted Value: Weapon Shop
+Predicted Value (Input): telporer -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Predicted Value (Input): potion shop -- Expected Value: Potion Shop -- Extracted Value: Potion Shop
+Predicted Value (Input): dragoon -- Expected Value: Dragon Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): dragoon dundun -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): teleport thingy -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Percentage of correct extractions: 61.29%
+=============================================
+
+
+====== Sequence Matcher Distance Results ======
+Predicted Value (Input): dragon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): healing shrine -- Expected Value: Healing Shrine -- Extracted Value: Healing Shrine
+Predicted Value (Input): teleporter -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Predicted Value (Input): armr shp -- Expected Value: Armor Shop -- Extracted Value: Armor Shop
+Predicted Value (Input): tutorial -- Expected Value: Tutorial Dungeon -- Extracted Value: Tutorial Dungeon
+Predicted Value (Input): shrine -- Expected Value: Healing Shrine -- Extracted Value: Healing Shrine
+Predicted Value (Input): castle of doom dungeon entrace north -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Castle Of Doom Dungeon
+Predicted Value (Input): armr shop -- Expected Value: Armor Shop -- Extracted Value: Armor Shop
+Predicted Value (Input): castle of doom dungoen -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Castle Of Doom Dungeon
+Predicted Value (Input): armr shp -- Expected Value: Armor Shop -- Extracted Value: Armor Shop
+Predicted Value (Input): tlportr -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Predicted Value (Input): deep -- Expected Value: Deep Sea Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): deep sea -- Expected Value: Deep Sea Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): castle -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Castle Of Doom Dungeon
+Predicted Value (Input): castle doom -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Castle Of Doom Dungeon
+Predicted Value (Input): doom -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): cstl of dom -- Expected Value: Castle Of Doom Dungeon -- Extracted Value: Castle Of Doom Dungeon
+Predicted Value (Input): pot shop -- Expected Value: Potion Shop -- Extracted Value: Potion Shop
+Predicted Value (Input): pot shp -- Expected Value: Potion Shop -- Extracted Value: Potion Shop
+Predicted Value (Input): tut dgn -- Expected Value: Tutorial Dungeon -- Extracted Value: Tutorial Dungeon
+Predicted Value (Input): dragoon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): Deep Sea dungeon -- Expected Value: Deep Sea Dungeon -- Extracted Value: Deep Sea Dungeon
+Predicted Value (Input): healing shrnie -- Expected Value: Healing Shrine -- Extracted Value: Healing Shrine
+Predicted Value (Input): tutoial -- Expected Value: Tutorial Dungeon -- Extracted Value: Tutorial Dungeon
+Predicted Value (Input): Drgon dungeon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): wapon shop -- Expected Value: Weapon Shop -- Extracted Value: Weapon Shop
+Predicted Value (Input): telporer -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Predicted Value (Input): potion shop -- Expected Value: Potion Shop -- Extracted Value: Potion Shop
+Predicted Value (Input): dragoon -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): dragoon dundun -- Expected Value: Dragon Dungeon -- Extracted Value: Dragon Dungeon
+Predicted Value (Input): teleport thingy -- Expected Value: Teleporter -- Extracted Value: Teleporter
+Percentage of correct extractions: 96.77%
+=============================================
+
+

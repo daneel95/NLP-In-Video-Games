@@ -1,0 +1,157 @@
+text,intent,slots
+Where can I get more health?,AnswerQuestion,O O O O O O
+whre can i get more heath?,AnswerQuestion,O O O O O O
+How should I get better armor?,AnswerQuestion,O O O O O O
+how shuld i get beter armo?,AnswerQuestion,O O O O O O
+How do I train?,AnswerQuestion,O O O O
+Can I fast travel?,AnswerQuestion,O O O O
+Which dungeon is the hardest?,AnswerQuestion,O O O O O
+whch dung is the hardest?,AnswerQuestion,O O O O O
+How can I get somewhere fast?,AnswerQuestion,O O O O O O
+Where can I heal myself?,AnswerQuestion,O O O O O
+Where can I buy potions?,AnswerQuestion,O O O O O
+Where can I buy potons?,AnswerQuestion,O O O O O
+Where can I upgrade my weapons?,AnswerQuestion,O O O O O O
+Where can I repair my weapons?,AnswerQuestion,O O O O O O
+Where can I upgrade my armor?,AnswerQuestion,O O O O O O
+Where can I repair my armor?,AnswerQuestion,O O O O O O
+Where can I train more?,AnswerQuestion,O O O O O
+Where can I fight creatures?,AnswerQuestion,O O O O O
+Where can I go swim?,AnswerQuestion,O O O O O
+Where heal?,AnswerQuestion,O O
+Where is heal?,AnswerQuestion,O O O
+Healing where?,AnswerQuestion,O O
+Hling where?,AnswerQuestion,O O
+How can i heal?,AnswerQuestion,O O O O
+Where is teleport?,AnswerQuestion,O O O
+How can i go deep sea?,AnswerQuestion,O O O O O O
+How can i go to dungeon?,AnswerQuestion,O O O O O O
+Where can i find armor?,AnswerQuestion,O O O O O
+Where is armor?,AnswerQuestion,O O O
+How can i buy armor?,AnswerQuestion,O O O O O
+Buy armor?,AnswerQuestion,O O
+I need healfh?,AnswerQuestion,O O O
+I need hdalth potions?,AnswerQuestion,O O O O
+Potion hp where?,AnswerQuestion,O O O
+I need weapons where can i get?,AnswerQuestion,O O O O O O O
+Weapons where?,AnswerQuestion,O O
+Wrapons?,AnswerQuestion,O
+Deep sea drops?,AnswerQuestion,B-location I-location O
+Deep sea recomended lvl ?,AnswerQuestion,B-location I-location O O
+What can I do at the Healing Shrine?,AnswerQuestion,O O O O O O B-location I-location
+What can I use to travel to another place fast?,AnswerQuestion,O O O O O O O O O O
+How can I deal more damage?,AnswerQuestion,O O O O O O
+How can I take less damage?,AnswerQuestion,O O O O O O
+What can I buy to move faster on foot?,AnswerQuestion,O O O O O O O O O
+Where can I advance my character?,AnswerQuestion,O O O O O O
+How can I become king?,AnswerQuestion,O O O O O
+How can I learn how to play?,AnswerQuestion,O O O O O O O
+How can I become a dragonslayer?,AnswerQuestion,O O O O O O
+Where can I heal myself?,AnswerQuestion,O O O O O
+Where can I get better items?,AnswerQuestion,O O O O O O
+What boss is dropping a sword?,AnswerQuestion,O O O O O O
+Can I upgrade my skills?,AnswerQuestion,O O O O O
+How can I upgrade my skills?,AnswerQuestion,O O O O O O
+What are the requirements of beating the dragon?,AnswerQuestion,O O O O O O O O
+Can I increase my max health?,AnswerQuestion,O O O O O O
+heal hp,AnswerQuestion,O O
+better items,AnswerQuestion,O O
+Where is the armor shop?,AnswerQuestion,O O O B-location I-location
+Where is the weapon shop?,AnswerQuestion,O O O B-location I-location
+Where is the potion shop?,AnswerQuestion,O O O B-location I-location
+Whre is the potion shop?,AnswerQuestion,O O O B-location I-location
+Is there a place to heal at?,AnswerQuestion,O O O O O O O
+My HP is low.,AnswerQuestion,O O O O O
+I need to recover my health.,AnswerQuestion,O O O O O O
+How can I travel faster?,AnswerQuestion,O O O O O
+Is there a way to travel instantly?,AnswerQuestion,O O O O O O O
+How do I cover a large distance in a short amount of time?,AnswerQuestion,O O O O O O O O O O O O O
+How do I get better weapons?,AnswerQuestion,O O O O O O
+I need to improve my weapon arsenal.,AnswerQuestion,O O O O O O O
+Can I enhance my weapons at the weapon shop?,AnswerQuestion,O O O O O O O B-location I-location
+Where can i get better armor from?,AnswerQuestion,O O O O O O O
+My current armor is too weak.,AnswerQuestion,O O O O O O
+I need a place to repair my equipment.,AnswerQuestion,O O O O O O O O
+What level is equipment from the armor shop?,AnswerQuestion,O O O O O O B-location I-location
+Is there a plsce that sell consumables?,AnswerQuestion,O O O O O O O
+I want to stock up on potions Where can I do that?,AnswerQuestion,O O O O O O O O O O O O
+I am running low on potions I need a place that sells some.,AnswerQuestion,O O O O O O O O O O O O O
+Where is the Deep Sea Dungeon?,AnswerQuestion,O O O B-location I-location I-location
+What can you tell me about the deep sea dungeon?,AnswerQuestion,O O O O O O O B-location I-location I-location
+Is there an underwater dungeon?,AnswerQuestion,O O O B-location I-location
+What is the recommended level for Castle of Doom?,AnswerQuestion,O O O O O O B-location I-location I-location
+What does the final boss from Castle Of Doom drop?,AnswerQuestion,O O O O O O B-location I-location I-location O
+Where can I learn the gameplay mechanics?,AnswerQuestion,O O O O O O O
+I need a place to train myself Where can I do that?,AnswerQuestion,O O O O O O O O O O O O
+Is there a tutorial available?,AnswerQuestion,O O O O O
+What is the minimum level requirement for the dragon dungeon.,AnswerQuestion,O O O O O O O O B-location I-location
+What location contains a dragon boss?,AnswerQuestion,O O O O O O
+Is fire resistance reccomended for Dragon dungeon?,AnswerQuestion,O O O O O B-location I-location
+Show me where the dragon is,FollowAction,O O O O B-location O
+Show me where the dragoon is,FollowAction,O O O O B-location O
+Take me to Deep Sea dungeon entrance,FollowAction,O O O B-location I-location I-location O
+Take me to castle of doom dungeon entrance,FollowAction,O O O B-location I-location I-location I-location O
+Take me to healing shrnie,FollowAction,O O O B-location I-location
+Take me to tutorial,FollowAction,O O O B-location
+Take me to tutoial,FollowAction,O O O B-location
+Take me to Dragon dungeon entrance,FollowAction,O O O B-location I-location O
+Take me to Drgon dungeon entrance,FollowAction,O O O B-location I-location O
+Take me to where I can heal,FollowAction,O O O O O O B-location
+Take me to the nearest shop,FollowAction,O O O O O B-location
+Take me to the shop,FollowAction,O O O O B-location
+Show me where the weapon shop is,FollowAction,O O O O B-location I-location O
+Show me where the wep shop is,FollowAction,O O O O B-location I-location O
+Show me where the potion shop is,FollowAction,O O O O B-location I-location O
+Show me where the wepon shop is,FollowAction,O O O O B-location I-location O
+Get me to the shop,FollowAction,O O O O B-location
+Get me to the wapon shop,FollowAction,O O O O B-location I-location
+Get me to the teleporter,FollowAction,O O O O B-location
+Get me to the telporer,FollowAction,O O O O B-location
+Get me to Alcatraz,FollowAction,O O O B-location
+Show me the way to the dragon.,FollowAction,O O O O O O B-location
+Show me the way to the shrine.,FollowAction,O O O O O O B-location
+Shw me the way to weapon shop.,FollowAction,O O O O O B-location I-location
+Help me get to buy potions.,FollowAction,O O O O O B-location
+Give me path to teleporter.,FollowAction,O O O O B-location
+Give me path to healing shrine.,FollowAction,O O O O B-location I-location
+Gve me path to teleporter.,FollowAction,O O O O B-location
+Give me pat to weapon shop.,FollowAction,O O O O B-location I-location
+path to healing,FollowAction,O O B-location
+pth to healing,FollowAction,O O B-location
+path to dungeon entrance,FollowAction, O O B-location I-location
+Take me to the closest teleporter.,FollowAction,O O O O O B-location
+Take me to the closest healing shrine.,FollowAction,O O O O O B-location I-location
+Take me to the healing shrine.,FollowAction,O O O O B-location I-location
+Tke me to the healing shrine.,FollowAction,O O O O B-location I-location
+Show me where is the weapon shop.,FollowAction,O O O O O B-location I-location
+Show me where is the armr shp.,FollowAction,O O O O O B-location I-location
+Show me where is the potion shop.,FollowAction,O O O O O B-location I-location
+Take me to the closest castle.,FollowAction,O O O O O B-location
+Take me to the closest dragon.,FollowAction,O O O O O B-location
+Take me to the closest dragoon.,FollowAction,O O O O O B-location
+Ponpoont me to healing shrine.,FollowAction,O O O B-location I-location
+Pinpoint me to the nearest healing shrine.,FollowAction,O O O O O B-location I-location
+Pnpont me to the nearest teleporter.,FollowAction,O O O O O B-location
+Teleport me please.,FollowAction,B-location O O
+Heal me please.,FollowAction,B-location O O
+To castle Doom.,FollowAction,O B-location I-location
+To catle Dom.,FollowAction,O B-location I-location
+Go to dragon dungron.,FollowAction,O O B-location I-location
+Go to dragoon dundun.,FollowAction,O O B-location I-location
+Go to tut.,FollowAction,O O B-location
+Go to castle.,FollowAction,O O B-location
+Go to deep sea.,FollowAction,O O B-location I-location
+Show me the way to the dragon.,FollowAction,O O O O O O B-location
+Show me the way to the dragon dungeon.,FollowAction,O O O O O O B-location I-location
+Help me get to buy potions.,FollowAction,O O O O O B-location
+Give me path to teleporter.,FollowAction,O O O O B-location
+Give me path to shrine.,FollowAction,O O O O B-location
+Give me path to shops.,FollowAction,O O O O B-location
+I need to get to a healing shrine.,FollowAction,O O O O O O B-location I-location
+Take me to the armor shop.,FollowAction,O O O O B-location I-location
+Lets go to Mordor.,FollowAction,O O O B-location
+I want to go to the teleport thingy.,FollowAction,O O O O O O B-location I-location
+I desire to visit the tutorial.,FollowAction,O O O O O B-location
+My destination is the shop.,FollowAction,O O O O B-location I-location
+get me to the dungeon now!,FollowAction,O O O O B-location O
+show me the weapon shop!,FollowAction,O O O B-location I-location

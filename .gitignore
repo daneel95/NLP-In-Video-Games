@@ -13,6 +13,7 @@ Saved
 *.xcodeproj
 *.xcworkspace
 .idea
+Build
 
 JointModel/.idea
 JointModel/venv

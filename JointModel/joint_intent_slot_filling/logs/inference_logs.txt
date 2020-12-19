@@ -1,0 +1,203 @@
+Input Text: where can i heal?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: Shrine heals your HP to maximum
+==========================
+
+
+Input Text: where can i teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: Teleporter teleports you to the desired location
+==========================
+
+
+Input Text: where can i do tutorial
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O]
+Predicted Question Answer: You can buy weapons at the Weapon Shop
+==========================
+
+
+Input Text: Where can I upgrade my weapon?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O]
+Predicted Question Answer: Weapon Shop
+==========================
+
+
+Input Text: where can I buy potions?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O]
+Predicted Question Answer: Potion Shop
+==========================
+
+
+Input Text: where can I slay a dragon?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O]
+Predicted Question Answer: Weapon Shop
+==========================
+
+
+Input Text: where can I do tutorial?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O]
+Predicted Question Answer: Tutorial Dungeon is a dungeon
+==========================
+
+
+Input Text: where can I heal?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: Healing Shrine heals your HP to maximum
+==========================
+
+
+Input Text: Get me to the Healing Shrine
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, O, B-location, I-location]
+Predicted Location: Healing Shrine
+==========================
+
+
+Input Text: How can I teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: you to the desired location
+==========================
+
+
+Input Text: From where can I teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O]
+Predicted Question Answer: you to the desired location
+==========================
+
+
+Input Text: Where can I teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: you to the desired location
+==========================
+
+
+Input Text: Where can I teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: Teleporter teleports you to the desired location
+==========================
+
+
+Input Text: Get me to the teleprtr
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, O, B-location]
+Predicted Location: Teleporter
+==========================
+
+
+Input Text: Can I upgrade my weapons?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O]
+Predicted Question Answer: By upgrading your weapons
+==========================
+
+
+Input Text: Get me to arm shp
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location, I-location]
+Predicted Location: Armor Shop
+==========================
+
+
+Input Text: how can I get a legendary weapon?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O, O]
+Predicted Question Answer: You can buy weapons at the Weapon Shop
+==========================
+
+
+Input Text: what's the level requirement for dragon dungeon?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, B-location, I-location]
+Predicted Question Answer: 30
+==========================
+
+
+Input Text: What's the required level for doom dungeon?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, B-location, I-location]
+Predicted Question Answer: 30
+==========================
+
+
+Input Text: get me to doom dungeon
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location, I-location]
+Predicted Location: Dragon Dungeon
+==========================
+
+
+Input Text: doom dungeon required level
+Predicted Intent: AnswerQuestion
+Predicted Slots: [B-location, I-location, O, O]
+Predicted Question Answer: Castle of Doom dungeon requires a party of 3 people and at least level 30
+==========================
+
+
+Input Text: show me doom dungeon entrance
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, B-location, I-location, O]
+Predicted Location: Dragon Dungeon
+==========================
+
+
+Input Text: what's the required level of doom dungeon?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, B-location, I-location]
+Predicted Question Answer: 30
+==========================
+
+
+Input Text: what's the requirement for doom dungeon?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, B-location, I-location]
+Predicted Question Answer: a party of 3 people and at least level 30
+==========================
+
+
+Input Text: show me castle of doom entrance
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, B-location, I-location, I-location, O]
+Predicted Location: Castle Of Doom Dungeon
+==========================
+
+
+Input Text: where can I teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: Teleporter teleports you to the desired location
+==========================
+
+
+Input Text: get me to teleporter
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location]
+Predicted Location: Teleporter
+==========================
+
+
+Input Text: where can I teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: Teleporter teleports you to the desired location
+==========================
+
+
+Input Text: bet m,e to teleporter
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location]
+Predicted Location: Teleporter
+==========================
+
+

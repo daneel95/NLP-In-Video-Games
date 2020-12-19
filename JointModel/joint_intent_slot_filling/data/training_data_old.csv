@@ -1,0 +1,20 @@
+text,intent,slots
+Where can I heal myself?,AnswerQuestion,O O O O O
+Where can I get better items?,AnswerQuestion,O O O O O O
+What boss is dropping a sword?,AnswerQuestion,O O O O O O
+How can I upgrade my equipment?,AnswerQuestion,O O O O O O
+Can I upgrade my skills?,AnswerQuestion,O O O O O
+How can I upgrade my skills?,AnswerQuestion,O O O O O O
+What are the requirements of beating the dragon?,AnswerQuestion,O O O O O O O O
+Can I increase my max health?,AnswerQuestion,O O O O O O
+heal hp,AnswerQuestion,O O
+better items,AnswerQuestion,O O
+Where is the shop?,AnswerQuestion,O O O B-location
+Show me where the dragon is,FollowAction,O O O B-location I-location O
+Take me to X dungeon entrance,FollowAction,O O O B-location I-location O
+Take me to where I can heal,FollowAction,O O O O O O B-location
+Take me to the nearest shop,FollowAction,O O O O O B-location
+Take me to the shop,FollowAction,O O O O B-location
+Show me where the shop is,FollowAction,O O O O B-location O
+Get me to the shop,FollowAction,O O O O B-location
+Get me to the teleporter,FollowAction,O O O O B-location

@@ -1,0 +1,10 @@
+text,intent
+Where can I heal myself,AnswerQuestion
+Show me where the dragon is,FollowAction
+Where can I find the river?,AnswerQuestion
+Get me to the river,FollowAction
+healing shrine,AnswerQuestion
+Where can I upgrade my sword?,AnswerQuestion
+skills upgrade,AnswerQuestion
+Where is Dragon's Nest?,AnswerQuestion
+Get me to the blacksmith shop,FollowAction

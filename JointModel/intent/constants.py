@@ -1,0 +1,28 @@
+# This file will contain constants regarding paths and google drive files ids
+
+# Downloading models from: https://drive.google.com/drive/u/0/folders/1r0y3bEwUTrN00SM31m3AUXUrGpd-fDx6
+
+# Bert files constants
+BERT_CHECKPOINT_DIRECTORY = 'intent/model'
+BERT_CONFIG_FILE = BERT_CHECKPOINT_DIRECTORY + '/bert_config.json'
+BERT_CONFIG_FILE_DRIVE_ID = '1EQES1oiV14DrzqIcNS_SHeOZYG5Y2RrP'
+BERT_FULL_CHECKPOINT_FILE = BERT_CHECKPOINT_DIRECTORY + '/bert_model.ckpt.data-00000-of-00001'
+BERT_FULL_CHECKPOINT_FILE_DRIVE_ID = '1tnmnXlA1Kusvzoji_hNLk-fn-Vovle-2'
+BERT_MODEL_CHEKPOINT_INDEX_FILE = BERT_CHECKPOINT_DIRECTORY + '/bert_model.ckpt.index'
+BERT_MODEL_CHECKPOINT_INDEX_FILE_DRIVE_ID = '1Gvqrh22X74XD_F82Vuct1oQduTL3umqs'
+BERT_MODEL_CHECKPOINT_META_FILE = BERT_CHECKPOINT_DIRECTORY + '/bert_model.ckpt.meta'
+BERT_MODEL_CHECKPOINT_META_FILE_DRIVE_ID = '1TegS0HKE1Ioia8yeWNI5o8cdI_61S2gj'
+BERT_MODEL_CHECKPOINT_VOCAB_FILE = BERT_CHECKPOINT_DIRECTORY + '/vocab.txt'
+BERT_MODEL_CHECKPOINT_VOCAB_FILE_DRIVE_ID = '1NbzOK0zUJsr1aidqGxfDSROJD8Et2pc-'
+
+# Trained model constants
+TRAINED_MODEL_DIRECTORY = 'intent/trained_model'
+TRAINED_MODEL_WEIGHTS_FILE = TRAINED_MODEL_DIRECTORY + '/intent_classification_weights.h5'
+TRAINED_MODEL_WEIGHTS_FILE_DRIVE_ID = '1MtWwsOdv0iwCw-XJIlHNM-XFGf0gyEYP'
+TRAINED_MODEL_MAX_SEQUENCE_FILE = TRAINED_MODEL_DIRECTORY + '/max_sequence_value.txt'
+TRAINED_MODEL_MAX_SEQUENCE_FILE_DRIVE_ID = '1lqGFWNf1GGYJ0XuipKhk2lwnzsh3Z9Kc'
+
+# Data paths
+BASE_DATA_PATH = 'intent/data'
+TRAINING_DATA_PATH = BASE_DATA_PATH + '/training_data.csv'
+TEST_DATA_PATH = BASE_DATA_PATH + '/test_data.csv'

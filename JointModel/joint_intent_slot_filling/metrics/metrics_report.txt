@@ -1,0 +1,15 @@
+Classification Report for intents:
+
+
+                precision    recall  f1-score   support
+
+AnswerQuestion       1.00      1.00      1.00        17
+  FollowAction       1.00      1.00      1.00        19
+
+      accuracy                           1.00        36
+     macro avg       1.00      1.00      1.00        36
+  weighted avg       1.00      1.00      1.00        36
+
+
+
+Slots f1-score: 0.9662921348314607

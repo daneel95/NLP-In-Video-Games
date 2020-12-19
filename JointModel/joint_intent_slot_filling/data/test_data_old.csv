@@ -1,0 +1,10 @@
+text,intent,slots
+Where can I heal myself,AnswerQuestion,O O O O O
+Show me where the dragon is,FollowAction,O O O O B-location O
+Where can I find the river?,AnswerQuestion,O O O O O O
+Get me to the river,FollowAction,O O O O B-location
+healing shrine,AnswerQuestion,O O
+Where can I upgrade my sword?,AnswerQuestion,O O O O O O
+skills upgrade,AnswerQuestion,O O
+Where is Dragon's Nest?,AnswerQuestion,O O O O
+Get me to the blacksmith shop,FollowAction,O O O O B-location I-location

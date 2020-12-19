@@ -1,0 +1,37 @@
+text,intent,slots
+Where can I heal myself,AnswerQuestion,O O O O O
+Where can I find the river?,AnswerQuestion,O O O O O O
+Get me to the river,FollowAction,O O O O B-location
+healing shrine,AnswerQuestion,O O
+Where can I upgrade my sword?,AnswerQuestion,O O O O O O
+skills upgrade,AnswerQuestion,O O
+Where can I buy stuff?,AnswerQuestion,O O O O O
+Where can I see dragons?,AnswerQuestion,O O O O O
+Where is Dragon's Nest?,AnswerQuestion,O O O O
+Where can I up my armor?,AnswerQuestion,O O O O O O
+How can I upgrade my equipment?,AnswerQuestion,O O O O O O
+Get me to the blacksmith shop,FollowAction,O O O O B-location I-location
+Show me where the dragon is,FollowAction,O O O O B-location O
+get me to healing shrine,FollowAction,O O O B-location I-location
+show me the teleporter,FollowAction,O O O B-location
+go to armr shp,FollowAction,O O B-location I-location
+take me to tutorial,FollowAction,O O O B-location
+pin the teleporter,FollowAction,O O B-location
+path to shrine,FollowAction,O O B-location
+take me to the castle of doom dungeon entrace north,FollowAction,O O O O B-location I-location I-location I-location I-location I-location
+shw me the armr shop!,FollowAction,O O O B-location I-location
+give path to teleporter,FollowAction,O O O B-location
+pat to castle of doom dungoen,FollowAction,O O B-location I-location I-location I-location
+gt to item shop,FollowAction,O O B-location I-location
+follow to armr shp,FollowAction,O O B-location I-location
+whr can I up weapons,AnswerQuestion,O O O O O
+how can I telpor fast?,AnswerQuestion,O O O O O
+need weapon improvmnt,AnswerQuestion,O O O
+what is last boss in deep sea dungoen droppin?,AnswerQuestion,O O O O O B-location I-location I-location O
+where can i get a swprd drop?,AnswerQuestion,O O O O O O O
+get me to Alcatraz,FollowAction,O O O B-location
+pin the horse spirit training hall,FollowAction,O O B-location I-location I-location I-location
+what is shurima?,AnswerQuestion,O O B-location
+where can I kill mobs?,AnswerQuestion,O O O O O
+show me the shadow isles,FollowAction,O O O B-location I-location
+get me to demacia grand hall,FollowAction,O O O B-location I-location I-location
