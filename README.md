@@ -26,3 +26,34 @@ For more information about the Joint Model see `JointModel` directory.
 Question Answering is a model which answers to the given question sent as a text.
 
 For more information about the Question Answering Model see `QuestionAnswering` directory.
+
+
+## Examples
+
+### Question Answering
+
+1. Where can i heal?
+   
+![First Question](Demo/FirstQuestion.gif)
+
+2. which is th hardest dungeon in th game?
+
+![Second Question](Demo/SecondQuestion.gif)
+
+3. doom dungeon required level
+
+![Third Question](Demo/ThirdQuestion.gif)
+
+### Follow Action
+
+1. Get me to teleportr
+
+![First Follow](Demo/FirstFollow.gif)
+
+2. Get me to arm shp
+
+![Second Follow](Demo/SecondFollow.gif)
+
+3. show me castle of doom entrance
+
+![Third Follow](Demo/ThirdFollow.gif)

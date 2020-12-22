@@ -201,3 +201,395 @@ Predicted Location: Teleporter
 ==========================
 
 
+Input Text: where can i heal?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: Shrine heals your HP to maximum
+==========================
+
+
+Input Text: where can i teleport
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: game and dungeon entrances
+==========================
+
+
+Input Text: how can I get a new weapon?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O, O]
+Predicted Question Answer: Each weapon upgrade require to pay a fee depending on the level of your weapon
+==========================
+
+
+Input Text: doom dungeon required level
+Predicted Intent: AnswerQuestion
+Predicted Slots: [B-location, I-location, O, O]
+Predicted Question Answer: Castle of Doom dungeon requires a party of 3 people and at least level 30
+==========================
+
+
+Input Text: get me to teleportr
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location]
+Predicted Location: Teleporter
+==========================
+
+
+Input Text: get me to arm shp
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location, I-location]
+Predicted Location: Armor Shop
+==========================
+
+
+Input Text: get me to hling shrin
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, O, O]
+Predicted Location: Didn't find any SLOTS
+==========================
+
+
+Input Text: get me to heling shrin
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location, I-location]
+Predicted Location: Healing Shrine
+==========================
+
+
+Input Text: show me castle of dom entrance
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, B-location, I-location, I-location, O]
+Predicted Location: Castle Of Doom Dungeon
+==========================
+
+
+Input Text: were can i heal?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: You can buy weapons at the Weapon Shop
+==========================
+
+
+Input Text: where can i heal?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: Shrine heals your HP to maximum
+==========================
+
+
+Input Text: how can i teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: you to the desired location
+==========================
+
+
+Input Text: where can I teleport from>?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O]
+Predicted Question Answer: in the game and dungeon entrances
+==========================
+
+
+Input Text: how can i get nwe weapons?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O]
+Predicted Question Answer: pay a fee depending on the level of your weapon
+==========================
+
+
+Input Text: doom dungeon required level
+Predicted Intent: AnswerQuestion
+Predicted Slots: [B-location, I-location, O, O]
+Predicted Question Answer: Castle of Doom dungeon requires a party of 3 people and at least level 30
+==========================
+
+
+Input Text: how can I teleport to another location?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O, O]
+Predicted Question Answer: Teleporter
+==========================
+
+
+Input Text: how can i get better gear?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O]
+Predicted Question Answer: weapons and armors) at Weapon Shop and Armor Shop in every city
+==========================
+
+
+Input Text: how can i get better gear?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O]
+Predicted Question Answer: at Weapon Shop and Armor Shop in every city
+==========================
+
+
+Input Text: wher cn i get buffs?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O]
+Predicted Question Answer: Healing Shrine
+==========================
+
+
+Input Text: where can i slay a dragon?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O]
+Predicted Question Answer: Weapon Shop and Armor Shop in every city
+==========================
+
+
+Input Text: where can i lern the basics?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O]
+Predicted Question Answer: Weapon Shop
+==========================
+
+
+Input Text: which is the hardest dungeon in th game?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O, O, O]
+Predicted Question Answer: Deep Sea Dungeon
+==========================
+
+
+Input Text: where can I heal?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: Healing Shrine heals your HP to maximum
+==========================
+
+
+Input Text: how can I teleport to another location?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O, O]
+Predicted Question Answer: Teleporter
+==========================
+
+
+Input Text: how can I get better gear?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O]
+Predicted Question Answer: at Weapon Shop and Armor Shop in every city
+==========================
+
+
+Input Text: doom dungeon required level
+Predicted Intent: AnswerQuestion
+Predicted Slots: [B-location, I-location, O, O]
+Predicted Question Answer: Castle of Doom dungeon requires a party of 3 people and at least level 30
+==========================
+
+
+Input Text: which is the hardest dungeon in th game?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O, O, O]
+Predicted Question Answer: Deep Sea Dungeon
+==========================
+
+
+Input Text: get me to teleportr
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location]
+Predicted Location: Teleporter
+==========================
+
+
+Input Text: get ne to arm shp
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location, I-location]
+Predicted Location: Armor Shop
+==========================
+
+
+Input Text: get me to heling shrin
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location, I-location]
+Predicted Location: Healing Shrine
+==========================
+
+
+Input Text: show me castle of dom entrance
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, B-location, I-location, I-location, O]
+Predicted Location: Castle Of Doom Dungeon
+==========================
+
+
+Input Text: show me sea dungeon entrance
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, B-location, I-location, O]
+Predicted Location: Deep Sea Dungeon
+==========================
+
+
+Input Text: how can i teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: you to the desired location
+==========================
+
+
+Input Text: how can i get weapons?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O]
+Predicted Question Answer: pay a fee depending on the level of your weapon
+==========================
+
+
+Input Text: where can i slay a dragon?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O]
+Predicted Question Answer: Weapon Shop and Armor Shop in every city
+==========================
+
+
+Input Text: get me to doom
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location]
+Predicted Location: Dragon Dungeon
+==========================
+
+
+Input Text: tutorial
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O]
+Predicted Question Answer: Teleporter teleports you to the desired location
+==========================
+
+
+Input Text: how can I teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: Teleporter teleports you to the desired location
+==========================
+
+
+Input Text: how can i teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: you to the desired location
+==========================
+
+
+Input Text: how can i teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: you to the desired location
+==========================
+
+
+Input Text: how can i teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: you to the desired location
+==========================
+
+
+Input Text: how can I teleport?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: Teleporter teleports you to the desired location
+==========================
+
+
+Input Text: how can i get weapons?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O]
+Predicted Question Answer: pay a fee depending on the level of your weapon
+==========================
+
+
+Input Text: where can I slay a dragon?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O]
+Predicted Question Answer: Armor Shop
+==========================
+
+
+Input Text: tutorial
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O]
+Predicted Question Answer: Teleporter teleports you to the desired location
+==========================
+
+
+Input Text: get me to doom
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location]
+Predicted Location: Dragon Dungeon
+==========================
+
+
+Input Text: cyberpungk 2077
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O]
+Predicted Question Answer: Teleporter teleports you to the desired location
+==========================
+
+
+Input Text: tits or ass?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O]
+Predicted Question Answer: Teleporter
+==========================
+
+
+Input Text: bsda
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O]
+Predicted Question Answer: Teleporter teleports you to the desired location
+==========================
+
+
+Input Text: where can i heal?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O]
+Predicted Question Answer: Shrine heals your HP to maximum
+==========================
+
+
+Input Text: which is th hardest dungeon in th game?
+Predicted Intent: AnswerQuestion
+Predicted Slots: [O, O, O, O, O, O, O, O]
+Predicted Question Answer: Deep Sea Dungeon
+==========================
+
+
+Input Text: doom dungeon required level
+Predicted Intent: AnswerQuestion
+Predicted Slots: [B-location, I-location, O, O]
+Predicted Question Answer: Castle of Doom dungeon requires a party of 3 people and at least level 30
+==========================
+
+
+Input Text: get me to teleportr
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location]
+Predicted Location: Teleporter
+==========================
+
+
+Input Text: get me to arm shp
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location, I-location]
+Predicted Location: Armor Shop
+==========================
+
+
+Input Text: show me castle of doom entrance
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, B-location, I-location, I-location, O]
+Predicted Location: Castle Of Doom Dungeon
+==========================
+
+
+Input Text: get me to arm shp
+Predicted Intent: FollowAction
+Predicted Slots: [O, O, O, B-location, I-location]
+Predicted Location: Armor Shop
+==========================
+
+

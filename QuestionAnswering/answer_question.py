@@ -19,7 +19,7 @@ HEALING_SHRINE_CONTEXT = "Healing Shrine heals your HP to maximum. " \
                          "Healing Shrine also gives you different buffs:" \
                          " strength, attack power and ability power buffs which cost 1 gold each buff, " \
                          "so they are not free."
-WEAPON_SHOP_CONTEXT = "You can get better gear (weapons and armors) at Weapon Shop and Armor Shop in every city. " \
+WEAPON_SHOP_CONTEXT = "You can get better gear at Weapon Shop and Armor Shop in every city. " \
                       "You can buy weapons at the Weapon Shop. " \
                       "Another reason to visit the Weapon Shop is upgrading your weapons. " \
                       "Each weapon upgrade require to pay a fee depending on the level of your weapon and the" \
