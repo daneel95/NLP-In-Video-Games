@@ -57,3 +57,12 @@ For more information about the Question Answering Model see `QuestionAnswering` 
 3. show me castle of doom entrance
 
 ![Third Follow](Demo/ThirdFollow.gif)
+
+## References
+
+- [Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova, "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding", October 2018](https://arxiv.org/pdf/1810.04805v2.pdf)
+- [Qian Chen, Zhu Zhuo, Wen Wang, "BERT for Joint Intent Classification and Slot Filling",  February 2019](https://arxiv.org/pdf/1902.10909.pdf)
+- [OpenAI Team, "Language Models are Few-Shot Learners", May 2020](https://arxiv.org/pdf/2005.14165.pdf) 
+- ["joint-intent-classification-and-slot-filling-based-on-BERT"](https://github.com/90217/joint-intent-classification-and-slot-filling-based-on-BERT)
+- [Moscow Institute of Physics and Technology (MIPT), "DeepPavlov"](https://github.com/deepmipt/DeepPavlov) 
+
